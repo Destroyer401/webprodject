@@ -1,0 +1,51 @@
+/*
+	blue: #3399FF
+	      #CCCC99
+
+*/
+
+body {
+	background-color: #336600;
+	padding: 0 24px 36px 24px;
+}
+
+a{
+	color: #0000FF;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #000000;
+}
+
+h1, h2, h3 {
+	color: #CCCCCC;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+p.picture {
+	text-align: center;
+}
+
+p, li, table {
+	font-size: 1.3em;
+	color: #CCCC99;
+}
+
+th, td {
+	border: #0000FF solid 5px;
+	padding: 8px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.picture {
+	text-align: center;
+}
